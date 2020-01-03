@@ -3,6 +3,9 @@ html{
     background-color:  #000099;
     text-align: center;
 }
+* {
+    padding-left: 0%;
+}
 
 h1 {
     color: white;
