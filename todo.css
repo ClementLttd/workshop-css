@@ -1,0 +1,30 @@
+html{
+    font-family: Helvetica, Arial, sans-serif;
+    background-color:  #000099;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+}
+
+li {
+    padding: 10px;
+    border: solid 1px white;
+    background-color: white;
+    margin: 10px;
+    list-style-type: none;
+    border-radius: 5px;
+    
+}
+
+[type=text]{
+    padding: 10px;
+    border-radius: 3px;
+}
+
+[type=submit]{
+    padding: 10px;
+    border-radius: 8px;
+}
+
